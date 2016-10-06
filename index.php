@@ -15,3 +15,6 @@ define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
 require( dirname( __FILE__ ) . '/site/wp-blog-header.php' );
+
+//2 linha
+//ldfohsd
