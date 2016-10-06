@@ -18,3 +18,6 @@ require( dirname( __FILE__ ) . '/site/wp-blog-header.php' );
 
 //2 linha
 //ldfohsd
+
+
+//meu comentario em index.php
